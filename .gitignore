@@ -1,0 +1,27 @@
+# =========================
+# IGNORAR ARCHIVOS UNITY
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+.DS_Store
+Thumbs.db
+# =================================
+
+# Solo mantener
+!Assets/
+!Packages/
+!ProjectSettings/
+
